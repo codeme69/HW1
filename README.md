@@ -1,1 +1,1 @@
-# Homewroks for CMSE202 Spring 2023
+# Homeworks for CMSE202 Spring 2023
